@@ -1,4 +1,3 @@
-import Another from "@/app/Another";
 import {Hero} from "@/components/home/Hero";
 import {Services} from "@/components/home/Services";
 import {Portfolio} from "@/components/home/Portfolio";
